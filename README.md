@@ -7,6 +7,26 @@ Mengembangkan aplikasi web dinamis multi-user multi-konten atau sistem informasi
 - JavaScript
 - XAMPP Web Server
 
+# Deskripsi website
+website manga dinamis multi-user multi-konten yang memungkinkan pengguna untuk membaca manga secara online. Website ini akan memiliki fitur-fitur berikut:
+
+    Tampilan Awal: Menampilkan banner, informasi terbaru tentang manga, list manga, dan form feedback.
+    Log In: Pengguna dapat membuat akun dan log in untuk mengakses fitur-fitur website.
+    Baca Manga: Pengguna dapat membaca manga secara online dengan berbagai pilihan format, seperti chapter-by-chapter atau page-by-page.
+    List Manga: Menampilkan daftar manga yang tersedia di website, dengan berbagai kategori dan filter untuk memudahkan pengguna menemukan manga yang diinginkan.
+    Deskripsi Manga: Setiap manga memiliki halaman deskripsinya sendiri, yang berisi informasi tentang manga tersebut, seperti judul, penulis, genre, sinopsis, dan status manga.
+    
+Manfaat:
+
+    - Website ini akan memberikan akses mudah bagi pengguna untuk membaca manga secara online.
+    - Pengguna dapat menemukan manga baru dan menarik untuk dibaca.
+    - Pengguna dapat berinteraksi dengan pengguna lain melalui sistem komentar.
+
+Target Pengguna:
+
+    - Penggemar manga
+    - Pembaca online
+    - Orang yang ingin mencari hiburan baru
 
 # Live Demo
 |  #  | WebPage           | Live Demo                                                                                                      |
