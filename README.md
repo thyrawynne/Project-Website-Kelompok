@@ -13,11 +13,12 @@ Spesifikasi Kebutuhan:
 
 # Konten Dokumen Final Project:
 (Screenshot dan penjelasan tentang:
-    - Halaman dinamis yang menampilkan data yang diambil dari database MySQL
-    - Halaman statis tentang informasi anggota kelompok
-    - Mekanisme login untuk admin atau member untuk mengakses halaman khusus
-    - Halaman manajemen konten (Tambah, Edit, Hapus)
-    - Halaman lain yang berisi konten bebas lainnya terkait dengan tema projek,         sesuai kreativitas masing-masing kelompok)
+
+      - Halaman dinamis yang menampilkan data yang diambil dari database MySQL
+      - Halaman statis tentang informasi anggota kelompok
+      - Mekanisme login untuk admin atau member untuk mengakses halaman khusus
+      - Halaman manajemen konten (Tambah, Edit, Hapus)
+      - Halaman lain yang berisi konten bebas lainnya terkait dengan tema projek 
 
 *Deskripsi Aplikasi - jelaskan latar belakang, tujuan utama, manfaat dan fitur umum aplikasi*
 
