@@ -8,10 +8,10 @@ Mengembangkan aplikasi web dinamis multi-user multi-konten atau sistem informasi
 - XAMPP Web Server
 
 *Dengan spesifikasi website di atas, berikut nama-nama anggota dari project ini:*
-1. VICTOR OBETNEGO JOHANES SENDUK        220211060187
-2. THYRA WYNNE MANDAK                    220211060186
-3. ELSA ESTER LOKAS                      220211060213
-4. FACHSYAN RAJENDRA ISMAIL		            220211060194
+1. VICTOR OBETNEGO JOHANES SENDUK        (220211060187) 
+2. THYRA WYNNE MANDAK                    (220211060186) 
+3. ELSA ESTER LOKAS                      (220211060213) 
+4. FACHSYAN RAJENDRA ISMAIL		            (220211060194) 
  
 # Deskripsi website
 website manga dinamis multi-user multi-konten yang memungkinkan pengguna untuk membaca manga secara online.
