@@ -14,7 +14,12 @@ Mengembangkan aplikasi web dinamis multi-user multi-konten atau sistem informasi
 4. FACHSYAN RAJENDRA ISMAIL		            220211060194
  
 # Deskripsi website
-website manga dinamis multi-user multi-konten yang memungkinkan pengguna untuk membaca manga secara online. Website ini akan memiliki fitur-fitur berikut:
+website manga dinamis multi-user multi-konten yang memungkinkan pengguna untuk membaca manga secara online.
+
+*Link Hosting*
+https://resonancemanga.000webhostapp.com/
+
+Website ini akan memiliki fitur-fitur berikut:
 
     Tampilan Awal: Menampilkan banner, informasi terbaru tentang manga, list manga, dan form feedback.
     Log In: Pengguna dapat membuat akun dan log in untuk mengakses fitur-fitur website.
