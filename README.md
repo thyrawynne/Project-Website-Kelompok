@@ -65,3 +65,24 @@ Target Pengguna:
   ![image](https://github.com/thyrawynne/Project-Website-Kelompok/assets/130913231/527a3896-e735-46e7-9b4c-aed0344430d0)
 
 # Diagram Use Case
+![image](https://github.com/thyrawynne/Project-Website-Kelompok/assets/130913231/85070767-8bb3-4428-9feb-78a0c8d2c218)
+
+**Bagian 1: Admin**
+Admin website baca komik memiliki tanggung jawab untuk mengelola website, termasuk:
+Menambahkan, menghapus, dan mengedit konten: Admin dapat menambahkan komik baru, menghapus komik yang tidak lagi tersedia, dan mengedit informasi komik yang sudah ada.
+Memantau statistik website: Admin dapat memantau statistik website, seperti jumlah pengunjung, jumlah komik yang dibaca, dan jumlah pengguna yang terdaftar.
+Mengelola akun pengguna: Admin dapat mengelola akun pengguna, seperti menyetujui pendaftaran pengguna baru, menghapus akun pengguna yang melanggar aturan, dan mereset kata sandi pengguna yang lupa.
+
+**Bagian 2: Publisher**
+Publisher adalah pihak yang mengunggah komik dan chapter ke website baca komik. Publisher dapat:
+Mengunggah komik & chapter: Publisher dapat mengunggah komik baru dan chapter baru untuk komik yang sudah ada.
+Mengelola komik dan chapter: Publisher dapat mengedit informasi komik dan chapter, seperti judul, deskripsi, dan genre.
+
+**Bagian 3: Reader**
+Reader adalah pihak yang membaca komik di website baca komik. Reader dapat:
+Membaca komik: Reader dapat membaca komik yang tersedia di website baca komik.
+Mencari komik: Reader dapat mencari komik berdasarkan genre, judul, atau kata kunci.
+Membuat akun pengguna: Reader dapat membuat akun pengguna untuk menyimpan kemajuan membaca, menambahkan komik ke favorit, dan memberikan ulasan komik.
+
+
+
